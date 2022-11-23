@@ -21,7 +21,9 @@ Develop the following test scenario with Cucumber, Selenium and the programming 
 <br>-6. Click the "See Basket" button.
 <br>-7. Check that the product has been added to the cart.
 
-ANSWER-2: Prepared with VS Code using Selenium Chrome Driver in Java
+ANSWER-2: COMPLETED with Selenium IDE Link : [Selenium IDE ebebek Test Automation(UI) File](https://raw.githubusercontent.com/ayhan-unlu/202211_EbebekPracticumSeleniumProject/master/src/ebebek_Shopping_Cart_Test%20Automation%20_UI_Selenium%20IDE_Ayhan_Unlu.side?token=GHSAT0AAAAAAB2RQBZ6P474CRHYLJ2R3BPAY36V7QQ)
+<br> 
+<br> Also prepared with Java using Selenium Chrome Driver in VS Code
 <br>As of 24th November 2022.
 <br>Step 1 - COMPLETED
 <br>Step 2 - COMPLETED
