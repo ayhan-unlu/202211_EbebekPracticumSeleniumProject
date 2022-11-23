@@ -40,8 +40,7 @@ ANSWER-3: Incomplete as of 24th November 2022.
 
 4. Error Reporting
 Find at least 2 errors in the E-Bebek website or mobile application and report them in accordance with the standards.
-ANSWER-4: COMPLETED Link : [ebebek_Error_Report_Ayhan_Unlu](https://github.com/ayhan-unlu/202211_EbebekPracticumSeleniumProject/files/10079357/ebebek_Error_Report_Ayhan_Unlu.ods)
-
+ANSWER-4: COMPLETED Link : [ebebek_Error_Report_Ayhan_Unlu](https://github.com/ayhan-unlu/202211_EbebekPracticumSeleniumProject/files/10079413/ebebek_Error_Report_Ayhan_Unlu.ods)
 
 ## Thanks to   <a href="https://e-bebek.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/103220953/203633014-5f4cd869-ecc9-43ee-98d8-f93f6100e07a.svg" alt="https://e-bebek.com" height="100" width="100" /></a> , <a href="https://app.patika.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/ayhan-unlu/ayhan-unlu/main/patikaLogoSVG.svg" alt="https://app.patika.dev/" height="100" width="100" /></a> and <a href="https://kodluyoruz.org/tr/kodluyoruz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ayhan-unlu/ayhan-unlu/main/KodluyoruzLogoSVG.svg" alt="https://kodluyoruz.org/tr/kodluyoruz/" height="100" width="100" /></a> 
 
