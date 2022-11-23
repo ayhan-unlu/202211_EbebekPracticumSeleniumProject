@@ -1,0 +1,104 @@
+{
+  "id": "26338b69-aced-4ad5-9533-04f50c0fd7be",
+  "version": "2.0",
+  "name": "ebebek",
+  "url": "https://www.e-bebek.com/",
+  "tests": [{
+    "id": "9607d15c-8eab-4059-8074-8092e28f0b0d",
+    "name": "221124_0213",
+    "commands": [{
+      "id": "e6fa57ea-3e67-4c51-b8fa-4954075836ac",
+      "comment": "",
+      "command": "open",
+      "target": "https://www.e-bebek.com/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c7341620-b9ed-40f4-893e-b5274366c5e4",
+      "comment": "",
+      "command": "click",
+      "target": "id=txtSearchBox",
+      "targets": [
+        ["id=txtSearchBox", "id"],
+        ["css=#txtSearchBox", "css:finder"],
+        ["xpath=//input[@id='txtSearchBox']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "fac048ad-96f7-464c-ba94-335982de0bd4",
+      "comment": "",
+      "command": "type",
+      "target": "id=txtSearchBox",
+      "targets": [
+        ["id=txtSearchBox", "id"],
+        ["css=#txtSearchBox", "css:finder"],
+        ["xpath=//input[@id='txtSearchBox']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "biberon"
+    }, {
+      "id": "d1fb5d32-622a-4858-a5fc-68f5b1397ec4",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "id=txtSearchBox",
+      "targets": [
+        ["id=txtSearchBox", "id"],
+        ["css=#txtSearchBox", "css:finder"],
+        ["xpath=//input[@id='txtSearchBox']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "d0e1afb5-c436-442f-89fc-b6de1df41da0",
+      "comment": "",
+      "command": "click",
+      "target": "css=.col-6:nth-child(1) .is-initialized > .ng-star-inserted",
+      "targets": [
+        ["css=.col-6:nth-child(1) .is-initialized > .ng-star-inserted", "css:finder"],
+        ["xpath=//img[@alt='Lansinoh Hoşgeldin Bebek Biberon Seti']", "xpath:img"],
+        ["xpath=//figure/cx-media/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f1a87e9c-9dcf-4e6c-83b3-bd31a8ac6881",
+      "comment": "",
+      "command": "click",
+      "target": "id=addToCartBtn",
+      "targets": [
+        ["id=addToCartBtn", "id"],
+        ["css=#addToCartBtn", "css:finder"],
+        ["xpath=//button[@id='addToCartBtn']", "xpath:attributes"],
+        ["xpath=//form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Sepete Ekle')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "23cbd716-bfd0-4425-a1a4-a43acb6d530d",
+      "comment": "",
+      "command": "click",
+      "target": "id=btnShowCart",
+      "targets": [
+        ["id=btnShowCart", "id"],
+        ["linkText=Sepeti Gör", "linkText"],
+        ["css=#btnShowCart", "css:finder"],
+        ["xpath=//a[contains(text(),'Sepeti Gör')]", "xpath:link"],
+        ["xpath=//a[@id='btnShowCart']", "xpath:attributes"],
+        ["xpath=(//a[contains(@href, '/cart')])[2]", "xpath:href"],
+        ["xpath=//div[2]/div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Sepeti Gör')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "b2441d11-baf1-4bcf-95cf-d00a08f84d44",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["9607d15c-8eab-4059-8074-8092e28f0b0d"]
+  }],
+  "urls": ["https://www.e-bebek.com/"],
+  "plugins": []
+}
