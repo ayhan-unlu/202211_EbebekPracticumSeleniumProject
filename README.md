@@ -24,7 +24,7 @@ Develop the following test scenario with Cucumber, Selenium and the programming 
 
 ANSWER-2: 
 <br>COMPLETED with Selenium IDE 
-<br>Link : [Selenium IDE ebebek Test Automation(UI) File](https://raw.githubusercontent.com/ayhan-unlu/202211_EbebekPracticumSeleniumProject/master/src/ebebek_Shopping_Cart_Test%20Automation%20_UI_Selenium%20IDE_Ayhan_Unlu.side?token=GHSAT0AAAAAAB2RQBZ6P474CRHYLJ2R3BPAY36V7QQ)
+<br>Link : [Selenium IDE ebebek Test Automation(UI) File](https://github.com/ayhan-unlu/202211_EbebekPracticumSeleniumProject/blob/master/src/ebebek_Shopping_Cart_Test%20Automation%20_UI_Selenium%20IDE_Ayhan_Unlu.side)
 <br> 
 <br> Also prepared with Java using Selenium Chrome Driver in VS Code
 <br>As of 24th November 2022.
@@ -32,7 +32,7 @@ ANSWER-2:
 <br>Step 2 - COMPLETED
 <br>Step 3 - COMPLETED
 <br>Step 4-7 -  INCOMPLETE
-Link : [Java Test File](https://raw.githubusercontent.com/ayhan-unlu/202211_EbebekPracticumSeleniumProject/master/src/ebebekSeleniumTestHomework.java?token=GHSAT0AAAAAAB2RQBZ6OMGUC5YGS2PRJ5UEY36PS2A) 
+Link : [Java Test File](https://github.com/ayhan-unlu/202211_EbebekPracticumSeleniumProject/blob/master/src/ebebekSeleniumTestHomework.java) 
 
 
 
